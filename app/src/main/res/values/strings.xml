@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Send Mail</string>
+    <string name="action_settings">Go...</string>
+    <string name="title_activity_second">Second Activity</string>
+</resources>
